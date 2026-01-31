@@ -107,7 +107,7 @@ We use the device's built-in Text-to-Speech engine to provide audio pronunciatio
 
 SpeakDaily is suitable for users of all ages. We do not knowingly collect personal information from children under 13 without parental consent.
 
-If you are a parent or guardian and believe your child has provided personal information, please contact us at [your-email@example.com], and we will delete such information.
+If you are a parent or guardian and believe your child has provided personal information, please contact us at zikmama@gmail.com, and we will delete such information.
 
 ---
 
@@ -161,9 +161,9 @@ By using SpeakDaily, you consent to our Privacy Policy and agree to its terms.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email**: [zikmama@example.com]  
-**Website**: [your-website.com]  
-**Address**: [Your Company Address]
+**Email**: zikmama@gmail.com
+**Website**: https://zikmama-art.github.io/speakdaily-privacy-policy
+**Address**: Not applicable
 
 ---
 
@@ -185,7 +185,7 @@ We process your data based on:
 - **Right to Object**: Object to certain types of processing
 - **Right to Withdraw Consent**: Withdraw consent at any time
 
-To exercise these rights, contact us at [zikmama@example.com].
+To exercise these rights, contact us at zikmama@gmail.com.
 
 ---
 
@@ -204,7 +204,7 @@ If you are a California resident, you have rights under the California Consumer 
 - **Right to Opt-Out**: Opt-out of data sales (Note: We do not sell personal information)
 - **Right to Non-Discrimination**: Not be discriminated against for exercising your rights
 
-To exercise these rights, contact us at [zikmama@example.com].
+To exercise these rights, contact us at zikmama@gmail.com.
 
 ---
 
