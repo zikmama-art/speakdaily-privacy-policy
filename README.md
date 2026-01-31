@@ -107,7 +107,7 @@ We use the device's built-in Text-to-Speech engine to provide audio pronunciatio
 
 SpeakDaily is suitable for users of all ages. We do not knowingly collect personal information from children under 13 without parental consent.
 
-If you are a parent or guardian and believe your child has provided personal information, please contact us at [your-email@example.com], and we will delete such information.
+If you are a parent or guardian and believe your child has provided personal information, please contact us at zikmama@gmail.com, and we will delete such information.
 
 ---
 
