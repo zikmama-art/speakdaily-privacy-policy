@@ -1,94 +1,60 @@
-SpeakDaily
+# Privacy Policy — SpeakDaily
 
-Privacy Policy
-Last updated: March 2025
-SpeakDaily is committed to protecting your privacy. This policy explains clearly what data we collect, why we collect it, and how it is used. We believe in full transparency.
+**Last updated: October 2026**
 
+SpeakDaily ("the app") is an English-learning app for Android published by Free Apps Studio. This policy explains what information the app uses and why. Contact: **zikmama@gmail.com**
 
-📋 1. Overview
+## 1. Information that stays on your device
+Your learning progress (phrases learned, favorites, stars, XP, daily goal, streak, level and language choices, reminder settings) is stored **only on your device**. It is not sent to us or to any server, and we have no user accounts.
 
-SpeakDaily ("the App") is an English language learning application developed for Android. This Privacy Policy applies to all users of the App and describes our practices regarding the collection, use, and disclosure of personal information.
+## 2. Information we do not collect
+We do not collect your name, email address, phone number, precise location, contacts, photos, or voice recordings.
 
-By using SpeakDaily, you agree to the terms described in this policy.
+## 3. Audio files
+Native-speaker audio is delivered with the app or downloaded from Google Firebase Storage. Like any internet request, a download exposes your IP address to Google, which operates that service.
 
+## 4. Advertising (Google AdMob)
+The free version of the app shows ads provided by Google AdMob: banners, interstitial ads, and optional rewarded videos that you choose to watch (for example to retry a quiz or unlock a unit).
 
+To show and measure ads, Google and its partners may collect and use data such as your device's **advertising ID**, approximate location (derived from your IP address), app interactions, and diagnostics. Ads may be personalized based on this data.
 
-📊 2. Data We Collect
+- **Consent (EEA, UK):** if you are in the European Economic Area or the United Kingdom, the app first shows Google's consent form (Google User Messaging Platform). You can accept, refuse, or change your choice at any time in **Settings → Ads & privacy**. Without your consent, ads are limited or not shown.
+- **Opt-out of personalization:** you can reset or delete your advertising ID, or opt out of ad personalization, in your Android settings (Settings → Google → Ads).
+- More information: https://policies.google.com/technologies/ads
 
-SpeakDaily is designed to work with minimal data collection. Here is exactly what is stored:
+## 5. Notifications
+If you enable the daily reminder, the app schedules a **local notification** on your device at the time you choose. No notification data is sent to us. You can turn the reminder off in the app or in your Android settings.
 
-Stored locally on your device only:
+## 6. Translation error reports
+If you use the "Report a translation error" button, the app opens your email application with a pre-filled message (phrase number, language, text). Nothing is sent unless you send the email yourself; we then only see what the email contains.
 
-    Your selected interface language (e.g. French, Spanish)
-    Your learning progress (phrases learned, current session position)
-    Your favorite phrases
-    Your preferred difficulty level (Beginner, Intermediate, Advanced)
-    Whether onboarding has been completed
+## 7. Google Play
+Google Play may collect installation and update statistics and crash reports in accordance with Google's own privacy policy.
 
-✅ None of this data is transmitted to any server. It stays on your device at all times.
+## 8. Children
+The app is not directed at children under 13, and we do not knowingly collect personal information from children.
 
-Cached audio files:
+## 9. Data deletion
+Because your progress is stored only on your device, you can delete it at any time by clearing the app's data in Android settings or by uninstalling the app. We hold no copy of it.
 
-The App downloads MP3 audio files from Firebase Storage (Google Cloud) the first time you hear a phrase. These files are cached locally to avoid repeated downloads. No personal data is associated with these requests beyond your device's IP address, which is handled by Google's standard infrastructure.
+## 10. Changes
+We may update this policy. The date at the top shows the latest version.
 
+## 11. Contact
+Questions about this policy: **zikmama@gmail.com**
 
-🚫 3. Data We Do NOT Collect
+---
 
-    Your name, email address, or any account credentials
-    Your location or GPS data
-    Your contacts or calendar
-    Your device files or photos
-    Your microphone input or voice recordings
-    Behavioral analytics or usage tracking
-    Crash reports or diagnostic data (beyond what Google Play collects)
+# Politique de confidentialité — SpeakDaily (résumé en français)
 
-✅ SpeakDaily does not require you to create an account. No login, no sign-up, no email.
+**Dernière mise à jour : octobre 2026**
 
-
-🔗 4. Third-Party Services
-
-SpeakDaily uses the following third-party services:
-
-Firebase Storage (Google LLC)
-Used to host and deliver audio files. When your device downloads an audio file, Google's servers process a standard HTTP request including your IP address. This is governed by Google's Privacy Policy.
-
-Google AdMob (Google LLC)
-The free version of SpeakDaily displays advertisements provided by Google AdMob. AdMob may collect and use data to serve personalized ads, including a device advertising identifier. You can opt out of personalized ads in your device settings under Google → Ads → Opt out of Ads Personalization. See Google's Ads Policy.
-
-Google Play Services
-The App is distributed via Google Play. Google Play may collect installation and update statistics as part of its standard developer reporting. See Google's Privacy Policy.
-
-
-👶 5. Children's Privacy
-
-SpeakDaily is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information through the App, please contact us and we will delete such information promptly.
-
-
-🔒 6. Data Security
-
-Since all user data is stored locally on your device using Android's SharedPreferences and SQLite database, your data is protected by your device's built-in security (screen lock, encryption). We do not transmit personal data to external servers.
-
-
-⚖️ 7. Your Rights
-
-You have full control over your data at all times:
-
-    Delete all data: Uninstall the App — all locally stored data is removed automatically
-    Reset progress: Use the Reset option in the App settings
-    Opt out of ads: Via your device's Google settings
-    Access your data: Your data is stored locally; you can view it at any time within the App
-
-
-🔄 8. Changes to This Policy
-
-We may update this Privacy Policy from time to time. When we do, we will update the "Last updated" date at the top of this page. Continued use of the App after changes constitutes your acceptance of the updated policy.
-
-For significant changes, we will notify users through an in-app notice.
-✉️ 9. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us:
-SpeakDaily Support
-
-📧 zikmama@gmail.com
-
-We aim to respond within 48 hours.
+- **Vos données restent sur votre téléphone :** progression, favoris, étoiles, XP, objectif quotidien, série de jours, rappel. Nous n'avons pas de compte utilisateur et ne recevons rien.
+- **Nous ne collectons pas** votre nom, e-mail, téléphone, position précise, contacts, photos ni enregistrements vocaux.
+- **Publicité (Google AdMob) :** bannières, publicités plein écran et vidéos récompensées facultatives. Google peut utiliser l'identifiant publicitaire de l'appareil, une position approximative et des données d'interaction pour afficher et mesurer les pubs, éventuellement personnalisées.
+- **Consentement (EEE, Royaume-Uni) :** un formulaire de consentement Google s'affiche au premier lancement. Vous pouvez modifier votre choix dans **Paramètres → Confidentialité et pubs**. Vous pouvez aussi désactiver la personnalisation dans les paramètres Android (Paramètres → Google → Annonces).
+- **Rappel quotidien :** notification locale, programmée sur votre appareil ; rien n'est envoyé.
+- **Signalement d'une erreur de traduction :** ouvre votre application e-mail avec un message prérempli ; rien n'est envoyé tant que vous ne l'envoyez pas.
+- **Suppression :** effacez les données de l'application dans les paramètres Android, ou désinstallez-la.
+- **Enfants :** l'application ne s'adresse pas aux enfants de moins de 13 ans.
+- **Contact :** zikmama@gmail.com
