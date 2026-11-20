@@ -1,60 +1,139 @@
-# Privacy Policy — SpeakDaily
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – SpeakDaily &amp; Waxal 2.0 | Politique de confidentialité</title>
+<style>
+  :root{--bg:#0f172a;--text:#cbd5e1;--muted:#94a3b8;--head:#fb923c;--link:#fb923c;--line:#1e293b}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.6;font-size:15px}
+  main{max-width:720px;margin:0 auto;padding:24px 16px 64px}
+  nav a{margin-right:12px;font-size:14px}
+  a{color:var(--link)}
+  h1{color:#fff;font-size:26px;margin:20px 0 6px}
+  h2{color:var(--head);font-size:17px;margin:28px 0 6px}
+  .meta{color:var(--muted);font-size:13px;margin-bottom:8px}
+  ul{padding-left:20px}
+  li{margin:6px 0}
+  hr{border:0;border-top:1px solid var(--line);margin:56px 0 24px}
+</style>
+</head>
+<body>
+<main>
 
-**Last updated: October 2026**
+<nav><a href="#en">English</a><a href="#fr">Français</a></nav>
 
-SpeakDaily ("the app") is an English-learning app for Android published by Free Apps Studio. This policy explains what information the app uses and why. Contact: **zikmama@gmail.com**
+<!-- ===================== ENGLISH ===================== -->
+<section id="en" lang="en">
+<h1>Privacy Policy</h1>
+<p class="meta">Applies to <strong>SpeakDaily – Learn English Fast</strong> (com.freeappstudios.speakdaily) and <strong>Waxal 2.0</strong> (com.freeappstudios.waxal), published by Freeapp Studios (“we”, “us”). Last updated: November 20, 2026.</p>
 
-## 1. Information that stays on your device
-Your learning progress (phrases learned, favorites, stars, XP, daily goal, streak, level and language choices, reminder settings) is stored **only on your device**. It is not sent to us or to any server, and we have no user accounts.
+<h2>1. Summary</h2>
+<p>Our apps do not require an account and do not send your learning data to any server of ours. Your progress stays on your device. The third-party services that may process data are Google AdMob and its advertising partners (Unity Ads, Liftoff Monetize, InMobi) which keep the apps free, Google Play and Google Firebase Storage (audio files).</p>
 
-## 2. Information we do not collect
-We do not collect your name, email address, phone number, precise location, contacts, photos, or voice recordings.
+<h2>2. Information we do not collect</h2>
+<ul>
+<li>We do not ask for your name, email address, phone number or any account.</li>
+<li>We ourselves do not collect your contacts, photos, microphone or camera data. Our advertising partners may process approximate or precise location, as described in section 4.</li>
+<li>We do not operate a server that receives your learning data.</li>
+</ul>
 
-## 3. Audio files
-Native-speaker audio is delivered with the app or downloaded from Google Firebase Storage. Like any internet request, a download exposes your IP address to Google, which operates that service.
+<h2>3. Data stored on your device</h2>
+<p>The apps store on your device only: your learning progress (phrases learned, favorites, stars, XP, daily streak, daily goal, badges), your settings (language, dark/light theme, reminder time) and a counter used to space out ads. This data is not sent to us. It is removed when you uninstall the app or clear its data.</p>
 
-## 4. Advertising (Google AdMob)
-The free version of the app shows ads provided by Google AdMob: banners, interstitial ads, and optional rewarded videos that you choose to watch (for example to retry a quiz or unlock a unit).
+<h2>4. Advertising (Google AdMob and partners)</h2>
+<p>The apps show banner, interstitial and rewarded ads through the Google Mobile Ads SDK (AdMob) and its mediation partners: Unity Ads, Liftoff Monetize and InMobi. Rewarded ads are always optional: you choose to watch them in exchange for a benefit in the app.</p>
+<p>To serve, measure and secure ads, Google and its advertising partners (Unity Ads, Liftoff Monetize, InMobi) may collect and process, depending on your choices and region: your Android advertising ID, IP address, approximate or precise location, device and operating-system information, app interactions and ad interactions, and diagnostic data. We do not receive this information as personal data about you.</p>
+<ul>
+<li><strong>European Economic Area and United Kingdom:</strong> before showing ads, the apps display Google’s consent form (User Messaging Platform). You can change your choice at any time in <em>Settings → Ads &amp; privacy</em> inside the app.</li>
+<li><strong>United States:</strong> where required by state privacy laws, the apps display a message letting you opt out of the sale or sharing of your data. You can change your choice at any time in <em>Settings → Ads &amp; privacy</em>.</li>
+<li><strong>Everywhere:</strong> you can reset your advertising ID or opt out of ad personalization in your Android settings (<em>Settings → Google → Ads</em>).</li>
+<li>More information: <a href="https://policies.google.com/privacy">Google Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites">How Google uses data from sites or apps that use its services</a>.</li>
+</ul>
 
-To show and measure ads, Google and its partners may collect and use data such as your device's **advertising ID**, approximate location (derived from your IP address), app interactions, and diagnostics. Ads may be personalized based on this data.
+<h2>5. Notifications</h2>
+<p>If you enable the optional daily reminder, a notification is scheduled locally on your device at the time you choose. No data is sent to a server for this purpose. You can turn it off in the app or in your phone settings.</p>
 
-- **Consent (EEA, UK):** if you are in the European Economic Area or the United Kingdom, the app first shows Google's consent form (Google User Messaging Platform). You can accept, refuse, or change your choice at any time in **Settings → Ads & privacy**. Without your consent, ads are limited or not shown.
-- **Opt-out of personalization:** you can reset or delete your advertising ID, or opt out of ad personalization, in your Android settings (Settings → Google → Ads).
-- More information: https://policies.google.com/technologies/ads
+<h2>6. Google services (Play, Firebase Storage)</h2>
+<p>Some audio recordings may be downloaded the first time you play them from Google Firebase Storage (Google LLC). Like any internet request, this transmits your IP address and basic technical information to Google; we do not receive or store it.</p>
+<p>The “Rate the app” pop-up uses the Google Play In-App Review API; ratings and reviews are handled by Google Play. If you have enabled usage and diagnostics sharing on your Android device, Google Play may provide us with anonymous crash and performance reports (Android vitals).</p>
 
-## 5. Notifications
-If you enable the daily reminder, the app schedules a **local notification** on your device at the time you choose. No notification data is sent to us. You can turn the reminder off in the app or in your Android settings.
+<h2>7. Feedback by email</h2>
+<p>If you tap “Suggest a correction” or “Report a translation error”, the app opens your email app with a pre-filled message (phrase number, language, text). We receive only what you decide to send, and we use it solely to correct the content. You can ask us to delete your message at any time.</p>
 
-## 6. Translation error reports
-If you use the "Report a translation error" button, the app opens your email application with a pre-filled message (phrase number, language, text). Nothing is sent unless you send the email yourself; we then only see what the email contains.
+<h2>8. Children</h2>
+<p>The apps are not directed to children under 13, and we do not knowingly collect personal information from children. Ads are served through Google AdMob and its partners, which apply their own policies to ad content.</p>
 
-## 7. Google Play
-Google Play may collect installation and update statistics and crash reports in accordance with Google's own privacy policy.
+<h2>9. Your choices and rights</h2>
+<p>Because we do not hold personal data about you, there is usually nothing for us to access or delete. You can at any time: delete the app data from your device, change your ad consent in the app (EEA/UK/US), reset your advertising ID in Android, or contact us with any request. Depending on where you live (for example under the GDPR or US state privacy laws), you may also have the right to access, delete or opt out of the sale or sharing of your data, and to contact your data protection authority.</p>
 
-## 8. Children
-The app is not directed at children under 13, and we do not knowingly collect personal information from children.
+<h2>10. Security</h2>
+<p>Learning data stays on your device. Communication with ad services uses secure connections provided by the advertising SDKs.</p>
 
-## 9. Data deletion
-Because your progress is stored only on your device, you can delete it at any time by clearing the app's data in Android settings or by uninstalling the app. We hold no copy of it.
+<h2>11. Changes to this policy</h2>
+<p>We may update this policy, for example when we add features. The “last updated” date above will change, and the latest version will always be available at this address.</p>
 
-## 10. Changes
-We may update this policy. The date at the top shows the latest version.
+<h2>12. Contact</h2>
+<p>Questions or requests: <a href="mailto:zikmama@gmail.com">zikmama@gmail.com</a></p>
+</section>
 
-## 11. Contact
-Questions about this policy: **zikmama@gmail.com**
+<hr>
 
----
+<!-- ===================== FRANÇAIS ===================== -->
+<section id="fr" lang="fr">
+<h1>Politique de confidentialité</h1>
+<p class="meta">S’applique à <strong>SpeakDaily – Learn English Fast</strong> (com.freeappstudios.speakdaily) et <strong>Waxal 2.0</strong> (com.freeappstudios.waxal), publiées par Freeapp Studios (« nous »). Dernière mise à jour : 20 novembre 2026.</p>
 
-# Politique de confidentialité — SpeakDaily (résumé en français)
+<h2>1. En bref</h2>
+<p>Nos applications ne demandent aucun compte et n’envoient pas vos données d’apprentissage vers un serveur qui nous appartient. Votre progression reste sur votre appareil. Les services tiers pouvant traiter des données sont Google AdMob et ses partenaires publicitaires (Unity Ads, Liftoff Monetize, InMobi), qui permettent de garder les applications gratuites, Google Play et Google Firebase Storage (fichiers audio).</p>
 
-**Dernière mise à jour : octobre 2026**
+<h2>2. Informations que nous ne collectons pas</h2>
+<ul>
+<li>Nous ne demandons ni votre nom, ni votre adresse e-mail, ni votre numéro de téléphone, ni aucun compte.</li>
+<li>Nous ne collectons nous-mêmes ni vos contacts, ni vos photos, ni le microphone ou la caméra. Nos partenaires publicitaires peuvent traiter une position approximative ou précise, comme indiqué à la section 4.</li>
+<li>Nous n’exploitons aucun serveur qui reçoit vos données d’apprentissage.</li>
+</ul>
 
-- **Vos données restent sur votre téléphone :** progression, favoris, étoiles, XP, objectif quotidien, série de jours, rappel. Nous n'avons pas de compte utilisateur et ne recevons rien.
-- **Nous ne collectons pas** votre nom, e-mail, téléphone, position précise, contacts, photos ni enregistrements vocaux.
-- **Publicité (Google AdMob) :** bannières, publicités plein écran et vidéos récompensées facultatives. Google peut utiliser l'identifiant publicitaire de l'appareil, une position approximative et des données d'interaction pour afficher et mesurer les pubs, éventuellement personnalisées.
-- **Consentement (EEE, Royaume-Uni) :** un formulaire de consentement Google s'affiche au premier lancement. Vous pouvez modifier votre choix dans **Paramètres → Confidentialité et pubs**. Vous pouvez aussi désactiver la personnalisation dans les paramètres Android (Paramètres → Google → Annonces).
-- **Rappel quotidien :** notification locale, programmée sur votre appareil ; rien n'est envoyé.
-- **Signalement d'une erreur de traduction :** ouvre votre application e-mail avec un message prérempli ; rien n'est envoyé tant que vous ne l'envoyez pas.
-- **Suppression :** effacez les données de l'application dans les paramètres Android, ou désinstallez-la.
-- **Enfants :** l'application ne s'adresse pas aux enfants de moins de 13 ans.
-- **Contact :** zikmama@gmail.com
+<h2>3. Données stockées sur votre appareil</h2>
+<p>Les applications enregistrent uniquement sur votre appareil : votre progression (phrases apprises, favoris, étoiles, XP, série de jours, objectif quotidien, badges), vos réglages (langue, thème clair/sombre, heure du rappel) et un compteur servant à espacer les publicités. Ces données ne nous sont pas envoyées. Elles sont supprimées quand vous désinstallez l’application ou effacez ses données.</p>
+
+<h2>4. Publicité (Google AdMob et partenaires)</h2>
+<p>Les applications affichent des bannières, des publicités plein écran et des publicités avec récompense via le SDK Google Mobile Ads (AdMob) et ses partenaires de médiation : Unity Ads, Liftoff Monetize et InMobi. Les publicités avec récompense sont toujours facultatives : vous choisissez de les regarder en échange d’un avantage dans l’application.</p>
+<p>Pour diffuser, mesurer et sécuriser les publicités, Google et ses partenaires publicitaires (Unity Ads, Liftoff Monetize, InMobi) peuvent collecter et traiter, selon vos choix et votre région : l’identifiant publicitaire Android, l’adresse IP, la position approximative ou précise, des informations sur l’appareil et le système, les interactions avec l’application et les publicités, ainsi que des données de diagnostic. Nous ne recevons pas ces informations comme des données personnelles vous concernant.</p>
+<ul>
+<li><strong>Espace économique européen et Royaume-Uni :</strong> avant d’afficher des publicités, les applications présentent le formulaire de consentement de Google (User Messaging Platform). Vous pouvez modifier votre choix à tout moment dans <em>Paramètres → Confidentialité et pubs</em>.</li>
+<li><strong>États-Unis :</strong> lorsque les lois des États l’exigent, les applications affichent un message vous permettant de refuser la vente ou le partage de vos données. Vous pouvez modifier votre choix à tout moment dans <em>Paramètres → Confidentialité et pubs</em>.</li>
+<li><strong>Partout :</strong> vous pouvez réinitialiser votre identifiant publicitaire ou désactiver la personnalisation des annonces dans les paramètres Android (<em>Paramètres → Google → Annonces</em>).</li>
+<li>Pour en savoir plus : <a href="https://policies.google.com/privacy">Règles de confidentialité de Google</a> et <a href="https://policies.google.com/technologies/partner-sites">Comment Google utilise les données des sites ou applications qui utilisent ses services</a>.</li>
+</ul>
+
+<h2>5. Notifications</h2>
+<p>Si vous activez le rappel quotidien (facultatif), une notification est programmée localement sur votre appareil à l’heure que vous choisissez. Aucune donnée n’est envoyée à un serveur pour cela. Vous pouvez la désactiver dans l’application ou dans les réglages du téléphone.</p>
+
+<h2>6. Services Google (Play, Firebase Storage)</h2>
+<p>Certains enregistrements audio peuvent être téléchargés lors de leur première lecture depuis Google Firebase Storage (Google LLC). Comme toute requête Internet, cela transmet votre adresse IP et des informations techniques de base à Google ; nous ne les recevons ni ne les conservons.</p>
+<p>La fenêtre « Noter l’application » utilise l’API Google Play In-App Review ; les notes et avis sont gérés par Google Play. Si vous avez activé le partage de l’utilisation et des diagnostics sur votre appareil Android, Google Play peut nous transmettre des rapports anonymes de plantage et de performance (Android vitals).</p>
+
+<h2>7. Retours par e-mail</h2>
+<p>Si vous touchez « Proposer une correction » ou « Signaler une erreur de traduction », l’application ouvre votre messagerie avec un message prérempli (numéro de la phrase, langue, texte). Nous recevons uniquement ce que vous décidez d’envoyer, et nous l’utilisons seulement pour corriger le contenu. Vous pouvez demander la suppression de votre message à tout moment.</p>
+
+<h2>8. Enfants</h2>
+<p>Les applications ne s’adressent pas aux enfants de moins de 13 ans et nous ne collectons pas sciemment d’informations personnelles auprès d’enfants. Les publicités sont diffusées par Google AdMob et ses partenaires, qui appliquent leurs propres règles sur le contenu des annonces.</p>
+
+<h2>9. Vos choix et vos droits</h2>
+<p>Comme nous ne détenons pas de données personnelles vous concernant, il n’y a en général rien à consulter ou à supprimer chez nous. Vous pouvez à tout moment : supprimer les données de l’application sur votre appareil, modifier votre consentement publicitaire dans l’application (EEE/Royaume-Uni/États-Unis), réinitialiser votre identifiant publicitaire dans Android, ou nous contacter pour toute demande. Selon votre pays (par exemple avec le RGPD ou les lois des États américains), vous pouvez aussi avoir le droit d’accéder à vos données, de les supprimer ou de refuser leur vente ou leur partage, et de saisir votre autorité de protection des données.</p>
+
+<h2>10. Sécurité</h2>
+<p>Les données d’apprentissage restent sur votre appareil. Les échanges avec les services publicitaires passent par les connexions sécurisées des SDK publicitaires.</p>
+
+<h2>11. Modifications de cette politique</h2>
+<p>Nous pouvons mettre à jour cette politique, par exemple lors de l’ajout de fonctionnalités. La date de mise à jour ci-dessus changera et la dernière version restera disponible à cette adresse.</p>
+
+<h2>12. Contact</h2>
+<p>Questions ou demandes : <a href="mailto:zikmama@gmail.com">zikmama@gmail.com</a></p>
+</section>
+
+</main>
+</body>
+</html>
