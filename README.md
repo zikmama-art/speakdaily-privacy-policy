@@ -1,4 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – SpeakDaily &amp; Waxal 2.0 | Politique de confidentialité</title>
+<style>
+  :root{--bg:#0f172a;--text:#cbd5e1;--muted:#94a3b8;--head:#fb923c;--link:#fb923c;--line:#1e293b}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.6;font-size:15px}
+  main{max-width:720px;margin:0 auto;padding:24px 16px 64px}
+  nav a{margin-right:12px;font-size:14px}
+  a{color:var(--link)}
+  h1{color:#fff;font-size:26px;margin:20px 0 6px}
+  h2{color:var(--head);font-size:17px;margin:28px 0 6px}
+  .meta{color:var(--muted);font-size:13px;margin-bottom:8px}
+  ul{padding-left:20px}
+  li{margin:6px 0}
+  hr{border:0;border-top:1px solid var(--line);margin:56px 0 24px}
+</style>
+</head>
+<body>
+<main>
 
+<nav><a href="#en">English</a><a href="#fr">Français</a></nav>
+
+<!-- ===================== ENGLISH ===================== -->
+<section id="en" lang="en">
+<h1>Privacy Policy</h1>
+<p class="meta">Applies to <strong>SpeakDaily – Learn English Fast</strong> (com.freeappstudios.speakdaily) and <strong>Waxal 2.0</strong> (com.freeappstudios.waxal), published by Freeapp Studios (“we”, “us”). Last updated: November 27, 2026.</p>
 
 <h2>1. Summary</h2>
 <p>Our apps do not require an account and do not send your learning data to any server of ours. Your progress stays on your device. The third-party services that may process data are Google AdMob and its advertising partners (Unity Ads, Liftoff Monetize, InMobi) which keep the apps free, Google Play and Google Firebase Storage (audio files).</p>
@@ -30,14 +59,24 @@
 <p>Some audio recordings may be downloaded the first time you play them from Google Firebase Storage (Google LLC). Like any internet request, this transmits your IP address and basic technical information to Google; we do not receive or store it.</p>
 <p>The “Rate the app” pop-up uses the Google Play In-App Review API; ratings and reviews are handled by Google Play. If you have enabled usage and diagnostics sharing on your Android device, Google Play may provide us with anonymous crash and performance reports (Android vitals).</p>
 
-<h2>7. Feedback by email</h2>
+<h2>7. Feedback and translation suggestions</h2>
 <p>If you tap “Suggest a correction” or “Report a translation error”, the app opens your email app with a pre-filled message (phrase number, language, text). We receive only what you decide to send, and we use it solely to correct the content. You can ask us to delete your message at any time.</p>
+<p><strong>Translation suggestions (Waxal 2.0).</strong> The “Help us translate” feature lets you type a suggested translation or report an incorrect audio for a phrase. When you tap “Send”, the app sends to a Google Forms form that we operate: the text you typed, the Wolof phrase and its internal number, the language of your translation and the type of contribution. We do not ask for your name, email or any account, and we do not link the submission to you. Please do not write personal information in the text field. Because the form is hosted by Google, Google receives your IP address and technical information as for any internet request. We use submissions only to review and improve the translations in the app, and we keep them as long as needed for that purpose. You can ask us to delete a submission by writing to the contact address below.</p>
 
 <h2>8. Children</h2>
 <p>The apps are not directed to children under 13, and we do not knowingly collect personal information from children. Ads are served through Google AdMob and its partners, which apply their own policies to ad content.</p>
 
 <h2>9. Your choices and rights</h2>
 <p>Because we do not hold personal data about you, there is usually nothing for us to access or delete. You can at any time: delete the app data from your device, change your ad consent in the app (EEA/UK/US), reset your advertising ID in Android, or contact us with any request. Depending on where you live (for example under the GDPR or US state privacy laws), you may also have the right to access, delete or opt out of the sale or sharing of your data, and to contact your data protection authority.</p>
+
+<h2 id="delete-en">Data deletion request</h2>
+<p>This applies to <strong>Waxal 2.0</strong> and <strong>SpeakDaily</strong> by <strong>Freeapp Studios</strong>. To request deletion of data linked to your use of the apps:</p>
+<ol>
+<li><strong>Data stored on your device</strong> (progress, favorites, settings): open Android Settings → Apps → the app → Storage → Clear data, or uninstall the app. We do not hold this data.</li>
+<li><strong>Translation suggestions or reports sent from Waxal 2.0:</strong> email <strong>zikmama@gmail.com</strong> with the subject “Delete my data – Waxal”, and quote the text you submitted (or the phrase number). We will delete the matching submission within 30 days and confirm by email. Submissions are anonymous, so we need this text to find yours.</li>
+<li><strong>Advertising data</strong> (held by Google AdMob and its partners): reset your advertising ID in Android Settings → Privacy → Ads, and manage your consent from the app (EEA/UK/US).</li>
+</ol>
+<p>What is deleted: the submission you identify. What we may keep: nothing linked to you; translations that were already reviewed and added to the app are anonymous content and remain. We keep submissions only as long as needed to review them.</p>
 
 <h2>10. Security</h2>
 <p>Learning data stays on your device. Communication with ad services uses secure connections provided by the advertising SDKs.</p>
@@ -54,7 +93,7 @@
 <!-- ===================== FRANÇAIS ===================== -->
 <section id="fr" lang="fr">
 <h1>Politique de confidentialité</h1>
-<p class="meta">S’applique à <strong>SpeakDaily – Learn English Fast</strong> (com.freeappstudios.speakdaily) et <strong>Waxal 2.0</strong> (com.freeappstudios.waxal), publiées par Freeapp Studios (« nous »). Dernière mise à jour : 20 novembre 2026.</p>
+<p class="meta">S’applique à <strong>SpeakDaily – Learn English Fast</strong> (com.freeappstudios.speakdaily) et <strong>Waxal 2.0</strong> (com.freeappstudios.waxal), publiées par Freeapp Studios (« nous »). Dernière mise à jour : 27 novembre 2026.</p>
 
 <h2>1. En bref</h2>
 <p>Nos applications ne demandent aucun compte et n’envoient pas vos données d’apprentissage vers un serveur qui nous appartient. Votre progression reste sur votre appareil. Les services tiers pouvant traiter des données sont Google AdMob et ses partenaires publicitaires (Unity Ads, Liftoff Monetize, InMobi), qui permettent de garder les applications gratuites, Google Play et Google Firebase Storage (fichiers audio).</p>
@@ -86,14 +125,24 @@
 <p>Certains enregistrements audio peuvent être téléchargés lors de leur première lecture depuis Google Firebase Storage (Google LLC). Comme toute requête Internet, cela transmet votre adresse IP et des informations techniques de base à Google ; nous ne les recevons ni ne les conservons.</p>
 <p>La fenêtre « Noter l’application » utilise l’API Google Play In-App Review ; les notes et avis sont gérés par Google Play. Si vous avez activé le partage de l’utilisation et des diagnostics sur votre appareil Android, Google Play peut nous transmettre des rapports anonymes de plantage et de performance (Android vitals).</p>
 
-<h2>7. Retours par e-mail</h2>
+<h2>7. Retours et propositions de traduction</h2>
 <p>Si vous touchez « Proposer une correction » ou « Signaler une erreur de traduction », l’application ouvre votre messagerie avec un message prérempli (numéro de la phrase, langue, texte). Nous recevons uniquement ce que vous décidez d’envoyer, et nous l’utilisons seulement pour corriger le contenu. Vous pouvez demander la suppression de votre message à tout moment.</p>
+<p><strong>Propositions de traduction (Waxal 2.0).</strong> La fonction « Aide-nous à traduire » vous permet de saisir une traduction proposée ou de signaler un audio incorrect pour une phrase. Lorsque vous appuyez sur « Envoyer », l’application transmet à un formulaire Google Forms que nous gérons : le texte que vous avez saisi, la phrase en wolof et son numéro interne, la langue de votre traduction et le type de contribution. Nous ne demandons ni votre nom, ni votre e-mail, ni aucun compte, et nous ne lions pas l’envoi à votre personne. Merci de ne saisir aucune information personnelle dans le champ de texte. Le formulaire étant hébergé par Google, Google reçoit votre adresse IP et des informations techniques, comme pour toute requête internet. Nous utilisons les envois uniquement pour vérifier et améliorer les traductions de l’application et les conservons le temps nécessaire à cet usage. Vous pouvez demander la suppression d’un envoi en écrivant à l’adresse de contact ci-dessous.</p>
 
 <h2>8. Enfants</h2>
 <p>Les applications ne s’adressent pas aux enfants de moins de 13 ans et nous ne collectons pas sciemment d’informations personnelles auprès d’enfants. Les publicités sont diffusées par Google AdMob et ses partenaires, qui appliquent leurs propres règles sur le contenu des annonces.</p>
 
 <h2>9. Vos choix et vos droits</h2>
 <p>Comme nous ne détenons pas de données personnelles vous concernant, il n’y a en général rien à consulter ou à supprimer chez nous. Vous pouvez à tout moment : supprimer les données de l’application sur votre appareil, modifier votre consentement publicitaire dans l’application (EEE/Royaume-Uni/États-Unis), réinitialiser votre identifiant publicitaire dans Android, ou nous contacter pour toute demande. Selon votre pays (par exemple avec le RGPD ou les lois des États américains), vous pouvez aussi avoir le droit d’accéder à vos données, de les supprimer ou de refuser leur vente ou leur partage, et de saisir votre autorité de protection des données.</p>
+
+<h2 id="delete-fr">Demande de suppression de données</h2>
+<p>Ceci concerne <strong>Waxal 2.0</strong> et <strong>SpeakDaily</strong> de <strong>Freeapp Studios</strong>. Pour demander la suppression des données liées à votre utilisation des applications :</p>
+<ol>
+<li><strong>Données stockées sur votre appareil</strong> (progression, favoris, réglages) : ouvrez Réglages Android → Applications → l’application → Stockage → Effacer les données, ou désinstallez l’application. Nous ne détenons pas ces données.</li>
+<li><strong>Propositions ou signalements envoyés depuis Waxal 2.0 :</strong> écrivez à <strong>zikmama@gmail.com</strong> avec l’objet « Supprimer mes données – Waxal » en citant le texte envoyé (ou le numéro de la phrase). Nous supprimerons l’envoi correspondant sous 30 jours et vous le confirmerons par e-mail. Les envois sont anonymes : ce texte nous sert à retrouver le vôtre.</li>
+<li><strong>Données publicitaires</strong> (détenues par Google AdMob et ses partenaires) : réinitialisez votre identifiant publicitaire dans Réglages Android → Confidentialité → Annonces, et gérez votre consentement depuis l’application (EEE/Royaume-Uni/États-Unis).</li>
+</ol>
+<p>Ce qui est supprimé : l’envoi que vous identifiez. Ce que nous pouvons conserver : rien qui soit lié à vous ; les traductions déjà vérifiées et ajoutées à l’application sont un contenu anonyme et restent. Nous ne conservons les envois que le temps nécessaire à leur vérification.</p>
 
 <h2>10. Sécurité</h2>
 <p>Les données d’apprentissage restent sur votre appareil. Les échanges avec les services publicitaires passent par les connexions sécurisées des SDK publicitaires.</p>
