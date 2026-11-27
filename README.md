@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacy Policy – SpeakDaily &amp; Waxal 2.0 | Politique de confidentialité</title>
-<style>
-  :root{--bg:#0f172a;--text:#cbd5e1;--muted:#94a3b8;--head:#fb923c;--link:#fb923c;--line:#1e293b}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.6;font-size:15px}
-  main{max-width:720px;margin:0 auto;padding:24px 16px 64px}
-  nav a{margin-right:12px;font-size:14px}
-  a{color:var(--link)}
-  h1{color:#fff;font-size:26px;margin:20px 0 6px}
-  h2{color:var(--head);font-size:17px;margin:28px 0 6px}
-  .meta{color:var(--muted);font-size:13px;margin-bottom:8px}
-  ul{padding-left:20px}
-  li{margin:6px 0}
-  hr{border:0;border-top:1px solid var(--line);margin:56px 0 24px}
-</style>
-</head>
-<body>
-<main>
+
 
 <nav><a href="#en">English</a><a href="#fr">Français</a></nav>
 
